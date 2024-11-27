@@ -1,4 +1,4 @@
-## README.md for Raspberry Pi Pico W IMU Data Logger
+## Raspberry Pi Pico W IMU Data Logger
 
 **Introduction**
 
